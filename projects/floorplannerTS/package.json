@@ -30,7 +30,7 @@
     "rimraf": "^2.6.3",
     "run-sequence": "^2.0.0",
     "ts-loader": "^4.3.0",
-    "tslint": "^5.12.1",
+    "tslint": "^5.20.1",
     "typedoc-default-themes": "^0.5.0",
     "typescript": "^3.3.4000",
     "uglifyjs-webpack-plugin": "^2.1.2",
