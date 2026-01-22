@@ -7,7 +7,7 @@
     "stream-replace": "^1.0.0",
     "tsify": "^4.0.0",
     "typescript": "^2.9.2",
-    "uglifyify": "^5.0.1"
+    "uglifyify": "^5.0.2"
   },
   "devDependencies": {},
   "author": "Northwoods Software"
